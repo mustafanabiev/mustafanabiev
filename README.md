@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [My Quran](https://play.google.com/store/apps/details?id=com.alee.my_quran&pli=1)
 
-- 🔭 I’m currently working on [My Quran](https://apps.apple.com/kg/app/my-quran/id1671645027)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nabievv02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nabievv02" height="30" width="40" /></a>
@@ -26,6 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafanabiev&show_icons=true&locale=en" alt="mustafanabiev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafanabiev&" alt="mustafanabiev" /></p>
+
 
 <h3 align="left">Github trophys:</h3>
 
