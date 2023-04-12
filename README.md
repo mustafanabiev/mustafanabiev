@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafanabiev&label=Profile%20views&color=0e75b6&style=flat" alt="mustafanabiev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafanabiev" alt="mustafanabiev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nabievv02" target="blank"><img src="https://img.shields.io/twitter/follow/nabievv02?logo=twitter&style=for-the-badge" alt="nabievv02" /></a> </p>
 
 - 🔭 I’m currently working on [My Quran](https://play.google.com/store/apps/details?id=com.alee.my_quran&pli=1)
 
@@ -12,9 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nabievv02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nabievv02" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/%D0%BC%D1%83%D1%81%D1%82%D0%B0%D1%84%D0%B0-%D0%BD%D0%B0%D0%B1%D0%B8%D0%B5%D0%B2-0b36a2246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/мустафа-набиев-0b36a2246/" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100091483825004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100091483825004" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mustafa_nabievv/?igshid=YmMyMTA2M2Y%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafa_nabievv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafanabiev&show_icons=true&locale=en&layout=compact" alt="mustafanabiev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafanabiev&show_icons=true&locale=en" alt="mustafanabiev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafanabiev&" alt="mustafanabiev" /></p>
