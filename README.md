@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 I’m currently working on [My Quran](https://play.google.com/store/apps/details?id=com.alee.my_quran&pli=1)
-- 🌱 I’m currently learning **Dart, Flutter, C++, C#, Solidity, Rust, Go, MySQL**
+- 🌱 I’m currently learning **Dart, Flutter, C++, C#, Solidity, Rust, Go, Php, MySQL**
 - 📫 How to reach me **nabievv02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
