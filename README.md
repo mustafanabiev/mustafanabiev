@@ -66,4 +66,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafanabiev&show_icons=true&locale=en" alt="mustafanabiev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafanabiev&" alt="mustafanabiev" /></p>
