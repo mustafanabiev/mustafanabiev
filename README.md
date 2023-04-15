@@ -67,8 +67,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafanabiev&show_icons=true&locale=en" alt="mustafanabiev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafanabiev&" alt="mustafanabiev" /></p>
-
-
-<h3 align="left">Github trophys:</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafanabiev" alt="mustafanabiev" /></a> </p>
