@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F29F2D,100:E8590C&height=220&section=header&text=Mustafa%20Nabiev&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Founder%20%26%20CEO%20of%20OimoSoft%20%E2%80%A2%20Flutter%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Mustafa Nabiev" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F29F2D,100:E8590C&height=220&section=header&text=Mustafa%20Nabiev&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Founder%20%26%20CEO%20of%20OimoSoft%20%E2%80%A2%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Mustafa Nabiev" />
 </p>
 
 <p align="center">
   <a href="https://www.oimosoft.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F29F2D&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Mustafa+Nabiev;A+passionate+Mobile+developer+from+Kyrgyzstan+%F0%9F%87%B0%F0%9F%87%AC;Founder+%26+CEO+of+OimoSoft+%F0%9F%9A%80;20%2B+projects+on+App+Store+%26+Google+Play+%F0%9F%93%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F29F2D&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Mustafa+Nabiev;Full-Stack+Developer+from+Kyrgyzstan+%F0%9F%87%B0%F0%9F%87%AC;Websites+%E2%80%A2+Mobile+Apps+%E2%80%A2+Backend+%26+APIs+%E2%9A%99%EF%B8%8F;Founder+%26+CEO+of+OimoSoft+%F0%9F%9A%80;20%2B+projects+on+App+Store+%26+Google+Play+%F0%9F%93%B1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,11 +20,11 @@
 ## 🧑‍💻 About me
 
 - 🏢 **Founder & CEO** of [**OimoSoft**](https://www.oimosoft.com/) — an IT company from Kyrgyzstan
-- 📱 Building **cross-platform mobile apps** with Flutter — one codebase for iOS & Android
-- ⚙️ Full cycle: design → app → backend & API → admin panel → **App Store / Google Play** release
+- 💻 **Full-stack developer**: I build **websites, mobile apps, backend & APIs, CRM, admin panels and Telegram bots**
+- 📱 Mobile apps for iOS & Android · 🌐 web apps & websites · ⚙️ scalable backend & integrations (payments, maps, SMS, push)
+- 🔁 Full cycle: idea → design → frontend & mobile → backend & API → deploy → **App Store / Google Play** release
 - 🚀 **6+ years**, **20+ projects** in healthcare, insurance, fintech, e-commerce, education & delivery
-- 🔭 I’m currently working on [**My Quran**](https://play.google.com/store/apps/details?id=com.alee.my_quran)
-- 🌱 I’m currently learning **C++, C#, Solidity, Rust, Go, PHP**
+- 🧩 Stack: **Flutter · React / Next.js · Node.js / NestJS · Python · PHP / Laravel · PostgreSQL · Docker**
 - 📫 How to reach me: **nabievv02@gmail.com** · business: **admin@oimosoft.com**
 - 📍 Kyrgyzstan 🇰🇬
 
@@ -35,66 +35,59 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📖 My Quran</h3>
-      Quran app for Android: read and listen to the Holy Quran.
-      <br/><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.alee.my_quran"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img align="left" width="72" src="assets/belgi.png" alt="Belgi" />
+      <h3>Belgi</h3>
+      Time & attendance: check-in/out by QR code or geolocation, shifts and vacations.
+      <br clear="left"/><br/>
+      <a href="https://www.oimosoft.com/#all-projects"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a> <a href="https://www.oimosoft.com/#all-projects"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
     </td>
     <td width="50%" valign="top">
-      <h3>⏱️ Belgi</h3>
-      Time & attendance system: QR-code or geolocation check-in/out, shifts and leave tracking.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Admin_Panel-333?style=flat-square" alt="Admin panel" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚕 Ayda Taxi</h3>
-      Taxi booking service: car dispatch, trip route and in-app payment.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Maps-34A853?style=flat-square&logo=googlemaps&logoColor=white" alt="Maps" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩺 MediCall</h3>
-      App for patients: find a doctor and request a home visit.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Healthcare-E63946?style=flat-square" alt="Healthcare" />
+      <img align="left" width="72" src="assets/oshsu.png" alt="OshSU e-Library" />
+      <h3>OshSU e-Library</h3>
+      Electronic library of Osh State University: online catalog of books and study materials.
+      <br clear="left"/><br/>
+      <a href="https://www.oimosoft.com/#all-projects"><img src="https://img.shields.io/badge/Website-F29F2D?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ AYU Garant eInsurance</h3>
-      Buy motor insurance and other insurance products in a mobile app.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Insurance-1D3557?style=flat-square" alt="Insurance" />
+      <img align="left" width="72" src="assets/ayda.png" alt="Ayda Taxi" />
+      <h3>Ayda Taxi</h3>
+      Taxi service: car dispatch, trip route and in-app payment.
+      <br clear="left"/><br/>
+      <a href="https://www.oimosoft.com/#all-projects"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a> <a href="https://www.oimosoft.com/#all-projects"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 Fresh Mag</h3>
+      <img align="left" width="72" src="assets/freshmag.png" alt="Fresh Mag" />
+      <h3>Fresh Mag</h3>
       Supermarket app with delivery and order tracking.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/E--commerce-F29F2D?style=flat-square" alt="E-commerce" />
+      <br clear="left"/><br/>
+      <a href="https://www.oimosoft.com/#all-projects"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play" /></a> <a href="https://www.oimosoft.com/#all-projects"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧒 Tilbil</h3>
-      Kyrgyz language learning for kids: words, audio and proverbs.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/EdTech-2A9D8F?style=flat-square" alt="EdTech" />
+      <img align="left" width="72" src="assets/sika.png" alt="Sika Pro Club" />
+      <h3>Sika Pro Club</h3>
+      Professional community and loyalty program.
+      <br clear="left"/><br/>
+      <a href="https://www.oimosoft.com/#all-projects"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
     </td>
     <td width="50%" valign="top">
-      <h3>💳 Finopolis 2024</h3>
-      Fintech product for the banking community and its event ecosystem.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Fintech-264653?style=flat-square" alt="Fintech" />
+      <img align="left" width="72" src="assets/alleya.png" alt="Cashback Alleya Group" />
+      <h3>Cashback Alleya Group</h3>
+      Cashback and bonus programs for customers.
+      <br clear="left"/><br/>
+      <a href="https://www.oimosoft.com/#all-projects"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img align="left" width="72" src="assets/jashyl.png" alt="Jashyl Bonus" />
+      <h3>Jashyl Bonus</h3>
+      Bonuses and loyalty program.
+      <br clear="left"/><br/>
+      <a href="https://www.oimosoft.com/#all-projects"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
     </td>
   </tr>
 </table>
@@ -105,20 +98,36 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,html,css,js&perline=12" alt="Mobile & Web" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,figma,postman&perline=12" alt="Data & Tools" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="right"><b>📱 Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,xcode&perline=12" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🌐 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&perline=12" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi,django,php,laravel,go&perline=12" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🗄️ Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&perline=12" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>☁️ DevOps & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,aws,gcp,vercel&perline=12" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>🧰 Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,jira&perline=12" /></td>
+  </tr>
+</table>
 
-<p align="center"><b>🌱 Learning now</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,solidity,rust,go,php&perline=12" alt="Learning" />
-</p>
+<p align="center"><b>🌱 Exploring:</b> C++ · C# · Rust · Solidity</p>
 
 ---
 
